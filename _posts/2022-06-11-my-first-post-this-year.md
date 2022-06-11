@@ -6,8 +6,6 @@ categories: Website
 tags: [Github, Website]
 ---
 
-## How I have built my new Website
-
 1.I created a github account
 2.I cloned a reprository from https://github.com/datamaunz
 3.I renamed the cloned reprository to Bri-right.github.io
